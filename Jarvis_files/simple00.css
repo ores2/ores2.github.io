@@ -1,0 +1,61 @@
+body {background: #1b1b1b url(body0000.gif);}
+
+.dark_blue	{	FONT: Trebuchet,Tahoma; COLOR: #336699}
+.blue {color: #00ff00; text-decoration: none;}
+.blue:active {color: #ff0033; text-decoration: none;}
+.up		{	TEXT-TRANSFORM: uppercase} 
+
+
+body, td {font-family:Times, serif; font-size:13px; color:rgb(221, 221, 221);}
+small, #copyright {font-size:11px;}
+.col {color:rgb(14, 177, 0);}
+.new {font-size:11px; color:#FF0000;}
+a {color:rgb(221, 221, 221); text-decoration:none;}
+a:hover {color:#FF0000; text-decoration:none;}
+table.unmarked {background: #1b1b1b url(body0000.png);}
+table.marked {text-decoration: none;
+background-color: #000000;
+border: 1px solid rgb(124, 124, 124);
+padding: 5px;
+border-radius: 8px;}
+#change_ok {background-color:#FFFFCC; border:1px solid; padding:2px;}
+input {
+border: 1px solid black;
+color: #888888;
+background-color: #343434;
+font: 13px Georgia, Verdana, Arial, Helvetica, sans-serif;
+border-radius: 8px;
+}
+hr {
+border: 0;
+width: 80%;
+background-color: #222;
+height: 1px;
+}
+.knopka {
+border: 1px solid black;
+color: #888888;
+background-color: #343434;
+font: 13px Georgia, Verdana, Arial, Helvetica, sans-serif;
+border-radius: 8px;
+padding: 3px;
+}
+.knopka1 {
+border: 1px solid black;
+color: #888888;
+background-color: #343434;
+font: 13px Georgia, Verdana, Arial, Helvetica, sans-serif;
+border-radius: 8px;
+padding: 1px;
+}
+
+.knopka1 a:hover {
+color: #888888;
+}
+#logo {
+background: url('logo0000.png') no-repeat;
+width: 300px;
+height: 75px;
+display: block;
+}
+ul.nav {     list-style: none;     display: block;     width: 200px;     position: relative;     left: -11px;     padding: 35px 0 35px 0;  } li {     margin: 5px 0 0 0; } ul.nav li a {     -webkit-transition: all 0.3s ease-out;     background: #000000;   border-right: 1px solid rgb(124, 124, 124); border-top: 1px solid rgb(124, 124, 124); border-bottom: 1px solid rgb(124, 124, 124);  color: #fff;     padding: 7px 15px 7px 15px;     -webkit-border-top-right-radius: 10px;      -webkit-border-bottom-right-radius: 10px;     width: 100px;     display: block;     text-decoration: none; } ul.nav li a:hover {     background: #000000;     color: #fff;   border-right: 1px solid rgb(124, 124, 124); border-top: 1px solid rgb(124, 124, 124); border-bottom: 1px solid rgb(124, 124, 124);  padding: 7px 15px 7px 30px; }
